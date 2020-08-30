@@ -7,3 +7,6 @@ Minutes of meeting problem prototype instructions for run :
 2. Run command !pip install -r requirement.txt in command promt to install all the required libraries .
 3. You also need to download ffmpeg in the computer from ffmpeg.org.
 4. There is a need to change a path in AudioUpload function command = [r"your_path_for_ffmpeg.exe","-y","-i", filename, filename1].
+
+
+Download datasets from here : https://www.dropbox.com/s/87v8jxxu9tvbkns/development_set.zip?dl=0
