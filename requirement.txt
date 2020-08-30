@@ -1,0 +1,16 @@
+spacy
+nltk
+ gensim
+pickle
+pyLDAvis
+re
+speech_recognition
+subprocess
+uuid
+os
+python_speech_features
+sckit-learn
+SciPy
+punctuator
+time
+warnings
